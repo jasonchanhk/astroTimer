@@ -29,8 +29,7 @@ body{
 #explainsection{
     background-color: white;
     margin: 0px auto;
-    padding: 40px 30px;
-    color: w888;
+    padding: 0px 30px 40px 30px;
 }
 
 #work-timer, #counter, #break-timer{
